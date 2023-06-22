@@ -1,0 +1,16 @@
+.menu__list__item{
+    display: inline-block;
+    padding: 1.5rem 1.5rem 1.5rem 1.5rem;
+}
+
+.menu__list__item a:link{
+    text-decoration: none;
+    color: var(--color-titulos);
+}
+
+.menu__list__item a:hover{
+    color: beige;
+    background: var(--hover);
+    transition: 1ms ease-in-out;
+}
+

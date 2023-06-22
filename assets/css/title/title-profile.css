@@ -1,0 +1,9 @@
+.title__profile{
+    display: flex;
+    width: 200px;
+    height: 140px;
+    border-radius: 60%;
+    float: right;
+    padding-right: 10rem;
+    padding-left: 10rem;
+}
