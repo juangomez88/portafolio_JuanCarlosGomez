@@ -1,0 +1,7 @@
+.about__container{
+    background: var(--background_2);
+    margin-top: 15rem;
+    margin-left: 10rem;
+    padding-right: 3rem;
+    margin-right: 0.5rem;
+}

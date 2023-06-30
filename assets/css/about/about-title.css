@@ -1,0 +1,10 @@
+.about__title{
+    font-family: Releway;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 37.57px;
+    color: var(--color-font);
+    padding-top: 6.5rem;
+    padding-left: 1.5rem;
+
+}

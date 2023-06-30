@@ -1,5 +1,5 @@
 .menu__title{
-    display: contents;
+    display: flex;
     text-align: start;
-    align-self: flex-start;
+    padding-left: 0.5rem;
 }

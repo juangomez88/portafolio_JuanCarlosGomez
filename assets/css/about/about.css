@@ -1,0 +1,7 @@
+.about{
+    display: flex;
+    border-left: 10rem;
+    padding-right: 25rem;
+    padding-top: 0.5rem;
+    margin-right: 3rem;
+}

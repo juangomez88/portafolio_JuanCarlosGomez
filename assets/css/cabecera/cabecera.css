@@ -1,13 +1,5 @@
 .cabecera{
     color: var(--color-titulos);
-   /* width: 100%;
-    box-sizing: border-box;
-    display: block;
-    align-items:normal;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-    border-bottom: 1px solid;
-    position: absolute;*/
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
